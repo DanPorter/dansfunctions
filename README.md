@@ -1,6 +1,9 @@
 # dansfunctions
 Various useful functions in python
 
+By Dan Porter, PhD
+2021
+
 #### Usage:
 ```python
 import dansfunctions
